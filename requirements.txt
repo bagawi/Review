@@ -1,1 +1,3 @@
-streamlit, scikit-learn, joblib
+streamlit
+scikit-learn
+joblib
